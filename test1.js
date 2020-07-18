@@ -4,3 +4,5 @@ const b = 15;
 console.log(a + b);
 console.log("xyzz");
 console.log("xyzzxxxxxx");
+
+const madhur = "rahul";
