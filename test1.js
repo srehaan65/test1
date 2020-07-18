@@ -6,3 +6,4 @@ console.log("xyzz");
 console.log("xyzzxxxxxx");
 
 const x = 45;
+const y = 76;
